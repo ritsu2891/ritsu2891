@@ -1,4 +1,4 @@
-### Hi there 👋
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu2891&layout=compact)
 
 <!--
 **ritsu2891/ritsu2891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
