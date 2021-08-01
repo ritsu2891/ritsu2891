@@ -11,7 +11,7 @@
 <a href="https://twitter.com/ritsu2891"><img src="https://img.shields.io/badge/-@ritsu2891-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.facebook.com/ritsu2891"><img src="https://img.shields.io/badge/-@ritsu2891-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ritsu2891/"><img src="https://img.shields.io/badge/-Ritsuki%20Kokubo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ritsu2891@gmail.com"><img src="https://img.shields.io/badge/-ritsu2891@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ritsuki.kokubo@gmail.com"><img src="https://img.shields.io/badge/-ritsuki.kokubo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=ritsu2891" alt="profile-view" />
 </p>
 
