@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://cdn.rpaka.dev/paka.png" height="200" style="margin-right: 30px;"/>
   <img src="https://cdn.rpaka.dev/icon/pakabot.png" height="200"/>
 </div>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm paka</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm rpaka</h1>
 <h3 align="center">Student at <a href="https://www.aichi-pu.ac.jp/eng/">Aichi Prefectural University</a></h3>
 <p align="center">
 
