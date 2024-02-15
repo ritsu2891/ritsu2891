@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://x.com/ritsu2891"><img src="https://img.shields.io/badge/-@ritsu2891-000000?style=flat&logo=x&logoColor=white"/></a>
-  <a href="https://mstdn.jp/@rpaka"><img src="https://img.shields.io/badge/-@ritsu2891-563ACC?style=flat&logo=mastodon&logoColor=white"/></a>
+  <a href="https://mstdn.jp/@rpaka"><img src="https://img.shields.io/badge/-@rpaka-563ACC?style=flat&logo=mastodon&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ritsu2891" alt="profile-view" />
 </p>
 
@@ -17,7 +17,7 @@
 </h3>
 
 <h3 align="center">
-  <a href="https://github.com/ritsu2891/rpaka/issues">今やってることリスト</a>
+  <a href="https://rpaka.notion.site/5788045cadf344beb229c1febb8a3639?v=981abf66884944f3b40cf68d1ca72e05">今やってることリスト</a>
 </h3>
 
 <hr>
