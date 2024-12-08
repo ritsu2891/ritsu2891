@@ -1,9 +1,12 @@
+<!--
 <div align="center">
   <img src="https://cdn.rpaka.dev/icon/pakabot.png" height="200"/>
 </div>
 <hr>
-<h1 align="center">rpaka</h1>
-<h3 align="center">IT engineer at Yamato Steel Co., Ltd.</h3>
+-->
+
+<h1 align="center">rpaka（あるぱか）</h1>
+<!--<h3 align="center">IT engineer at Yamato Steel Co., Ltd.</h3>-->
 <p align="center">
 
 <p align="center">
@@ -20,9 +23,13 @@
   <a href="https://rpaka.notion.site/5788045cadf344beb229c1febb8a3639?v=981abf66884944f3b40cf68d1ca72e05">今やってることリスト</a>
 </h3>
 
+<!--
+
 <hr>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu2891&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&layout=compact" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritsu2891&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
+
+-->
